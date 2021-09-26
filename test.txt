@@ -2,3 +2,5 @@ aaaaa
 このファイルを一回変更してみる　by Yokoyama
 追加修正しました　by matcs
 追加修正しました2　by matcs
+
+これでいつだれが修正したかが明らかになりますね by Yokoyama
